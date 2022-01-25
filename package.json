@@ -1,6 +1,6 @@
 {
   "name": "sourav",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A command line business card of mine.",
   "main": "index.js",
   "bin": "./cli.js",
