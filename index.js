@@ -3,8 +3,8 @@ const data = require("./lib/data");
 
 const renderOpts = {
   dashColor: "cyan",
-  keysColor: "blue",
-  stringColor: "white",
+  keysColor: "red",
+  stringColor: "green",
 };
 
 module.exports = ({ json }) =>

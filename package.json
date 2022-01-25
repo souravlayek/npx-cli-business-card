@@ -19,6 +19,9 @@
   "author": "Sourav Layek <hello@souravlayek.com>",
   "license": "ISC",
   "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "clear": "^0.1.0",
     "minimist": "^1.2.5",
     "prettyjson": "^1.2.5"
   }
